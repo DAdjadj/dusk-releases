@@ -11,9 +11,7 @@ This repository only holds the downloads. Get the latest version from
 
 1. Download `Dusk.zip` from the latest release and unzip it.
 2. Move **Dusk** to your Applications folder and open it.
-3. The first time, macOS may say it can't verify the app. Open System Settings > Privacy & Security,
-   scroll down and click **Open Anyway**. This is needed once.
-4. macOS asks to let Dusk use Accessibility. Click **Open System Settings** and turn Dusk on. That's how
+3. macOS asks to let Dusk use Accessibility. Click **Open System Settings** and turn Dusk on. That's how
    it sees the brightness keys; it acts on no other key.
 
 Requires macOS 26 or later on a Mac with Apple silicon, and a monitor that takes brightness over its
