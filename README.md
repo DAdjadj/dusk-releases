@@ -2,7 +2,7 @@
 
 A free macOS app that makes your Mac's brightness keys work on your monitors. Press F1 or F2 and Dusk
 sets the brightness on the monitor itself, over its cable, the way the buttons on the monitor do.
-Nothing is drawn over the screen, so colours and contrast stay as they are.
+Nothing is drawn over the screen, so colors and contrast stay as they are.
 
 This repository only holds the downloads. Get the latest version from
 [Releases](https://github.com/DAdjadj/dusk-releases/releases/latest).
